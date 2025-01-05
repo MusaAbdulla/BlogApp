@@ -1,5 +1,6 @@
 ﻿using BlogApp.Core.Repositories;
 using BlogApp.DAL.Repositeries;
+using BlogApp.DAL.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,7 @@ namespace BlogApp.DAL
         public static IServiceCollection AddRepositories(this IServiceCollection services)
         {
             services.AddScoped<ICategoryRepostory, CategoryRepository>();
+            services.AddScoped<IUserRepositories, UserRepository>();
             return services;
         }
     }

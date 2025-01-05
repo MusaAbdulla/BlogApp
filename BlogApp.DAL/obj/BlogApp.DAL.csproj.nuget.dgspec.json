@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.DAL\\BlogApp.DAL.csproj": {}
+    "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.Core\\BlogApp.Core.csproj": {
+    "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.Core\\BlogApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
         "projectName": "BlogApp.Core",
-        "projectPath": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.Core\\BlogApp.Core.csproj",
+        "projectPath": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
         "packagesPath": "C:\\Users\\Sheki-Komp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.Core\\obj\\",
+        "outputPath": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sheki-Komp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.DAL\\BlogApp.DAL.csproj": {
+    "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.DAL\\BlogApp.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj",
         "projectName": "BlogApp.DAL",
-        "projectPath": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.DAL\\BlogApp.DAL.csproj",
+        "projectPath": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.DAL\\BlogApp.DAL.csproj",
         "packagesPath": "C:\\Users\\Sheki-Komp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.DAL\\obj\\",
+        "outputPath": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sheki-Komp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.Core\\BlogApp.Core.csproj": {
-                "projectPath": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.Core\\BlogApp.Core.csproj"
+              "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj": {
+                "projectPath": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj"
               }
             }
           }
@@ -111,6 +111,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.11, )"

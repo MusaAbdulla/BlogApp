@@ -24,6 +24,9 @@ namespace BlogApp
             });
             builder.Services.AddRepositories();
             builder.Services.AddService();
+            builder.Services.AddHttpContextAccessor();
+            builder.Services.AddFluentValidation();
+            builder.Services.AddAutoMapper();
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
