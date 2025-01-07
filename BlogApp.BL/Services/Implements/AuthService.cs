@@ -1,19 +1,43 @@
 ﻿using AutoMapper;
 using BlogApp.BL.Dtos.UserDtos;
 using BlogApp.BL.Exceptions.Common;
+using BlogApp.BL.ExternalServices.Interfaces;
+using BlogApp.BL.Helpers;
 using BlogApp.BL.Services.Interface;
 using BlogApp.Core.Entities.Common;
 using BlogApp.Core.Repositories;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+using static System.Net.WebRequestMethods;
 
 
 namespace BlogApp.BL.Services.Implements
 {
-    public class AuthService(IUserRepositories _repo,IMapper _mapper) : IAuthService
+    public class AuthService(IUserRepositories _repo,IMapper _mapper,IJwtTokenHandler _handler) : IAuthService
     {
-        public Task LoginAsync(LoginDto dto)
+        public async Task<string> LoginAsync(LoginDto dto)
         {
-            throw new NotImplementedException();
+           User? user=null;
+            if(dto.UsernameOrEmail.Contains('@'))
+            {
+                user = await _repo.GetAll().Where(x =>
+            x.Email == dto.UsernameOrEmail).FirstOrDefaultAsync();
+            }
+            else
+            {
+                user = await _repo.GetAll().Where(x =>
+           x.Username == dto.UsernameOrEmail).FirstOrDefaultAsync();
+            }
+            if (user == null)
+                throw new NotFoundException<User>();
+            if (!HashHelper.VerifyHashedPassword(user.PasswordHash, dto.Password))
+                throw new NotFoundException<User>();
+
+
+            return _handler.CreatToken(user, 36);
         }
 
         public async Task RegisterAsync(CreateUserDto dto)

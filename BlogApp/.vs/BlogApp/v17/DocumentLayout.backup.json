@@ -3,7 +3,51 @@
   "WorkspaceRootPath": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|solutionrelative:serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\externalservices\\implements\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\dtos\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\services\\implements\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\externalservices\\interfaces\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C323899-5816-4141-B2CF-57B0E2BC3EC5}|..\\BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.core\\entities\\common\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C323899-5816-4141-B2CF-57B0E2BC3EC5}|..\\BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.core\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|solutionrelative:controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\services\\interface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -12,29 +56,13 @@
       "AbsoluteMoniker": "D:0:0:{A36CB7EF-CA1C-432D-B002-19BC93E99283}|..\\BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|solutionrelative:controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.DAL\\Migrations\\20250105214427_CreateTableCategoryandUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\validators\\uservalidator\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C323899-5816-4141-B2CF-57B0E2BC3EC5}|..\\BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.core\\entities\\common\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -49,9 +77,6 @@
       "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7C323899-5816-4141-B2CF-57B0E2BC3EC5}|..\\BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.core\\repositories\\iuserrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -61,10 +86,6 @@
       "AbsoluteMoniker": "D:0:0:{6CBF40E9-F201-4010-9743-F6BCB0D45F2A}|..\\BlogApp.BL\\BlogApp.BL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.bl\\dtos\\userdtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A36CB7EF-CA1C-432D-B002-19BC93E99283}|..\\BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -72,17 +93,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A36CB7EF-CA1C-432D-B002-19BC93E99283}|..\\BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.dal\\context\\blogappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C323899-5816-4141-B2CF-57B0E2BC3EC5}|..\\BlogApp.Core\\BlogApp.Core.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.core\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{966E3168-E878-4F1F-A526-9DA3E8CD147F}|BlogApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.DAL\\Migrations\\20241227213803_CreateCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -131,6 +141,9 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.Core\\BlogApp.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36CB7EF-CA1C-432D-B002-19BC93E99283}|..\\BlogApp.DAL\\BlogApp.DAL.csproj|c:\\users\\sheki-komp\\desktop\\blogappproject\\blogapp\\blogapp.dal\\migrations\\20250105214427_createtablecategoryanduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -140,8 +153,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 42,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp\\ServiceRegistration.cs",
+              "RelativeToolTip": "ServiceRegistration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:52:08.431Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
@@ -156,7 +182,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jwtoptions.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Dtos\\Options\\Jwtoptions.cs",
+              "RelativeDocumentMoniker": "..\\BlogApp.BL\\Dtos\\Options\\Jwtoptions.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Dtos\\Options\\Jwtoptions.cs",
+              "RelativeToolTip": "..\\BlogApp.BL\\Dtos\\Options\\Jwtoptions.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:46:28.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "JwtTokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\ExternalServices\\Implements\\JwtTokenHandler.cs",
+              "RelativeDocumentMoniker": "..\\BlogApp.BL\\ExternalServices\\Implements\\JwtTokenHandler.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\ExternalServices\\Implements\\JwtTokenHandler.cs",
+              "RelativeToolTip": "..\\BlogApp.BL\\ExternalServices\\Implements\\JwtTokenHandler.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:34:42.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtTokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\ExternalServices\\Interfaces\\JwtTokenHandler.cs",
+              "RelativeDocumentMoniker": "..\\BlogApp.BL\\ExternalServices\\Interfaces\\JwtTokenHandler.cs",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\ExternalServices\\Interfaces\\JwtTokenHandler.cs",
+              "RelativeToolTip": "..\\BlogApp.BL\\ExternalServices\\Interfaces\\JwtTokenHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:30:07.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
               "Title": "20250105214427_CreateTableCategoryandUser.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.DAL\\Migrations\\20250105214427_CreateTableCategoryandUser.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.DAL\\Migrations\\20250105214427_CreateTableCategoryandUser.cs",
@@ -169,20 +234,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Exceptions\\Common\\NotFoundException.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.BL\\Exceptions\\Common\\NotFoundException.cs",
               "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Exceptions\\Common\\NotFoundException.cs",
               "RelativeToolTip": "..\\BlogApp.BL\\Exceptions\\Common\\NotFoundException.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBMAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T21:08:04.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "ExistException.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Exceptions\\Common\\ExistException.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.BL\\Exceptions\\Common\\ExistException.cs",
@@ -195,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "IbaseException.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Exceptions\\IbaseException.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.BL\\Exceptions\\IbaseException.cs",
@@ -208,46 +273,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Services\\Implements\\AuthService.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.BL\\Services\\Implements\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Services\\Implements\\AuthService.cs*",
-              "RelativeToolTip": "..\\BlogApp.BL\\Services\\Implements\\AuthService.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAASAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Services\\Implements\\AuthService.cs",
+              "RelativeToolTip": "..\\BlogApp.BL\\Services\\Implements\\AuthService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T20:49:59.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Services\\Interface\\IAuthService.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.BL\\Services\\Interface\\IAuthService.cs",
               "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Services\\Interface\\IAuthService.cs",
               "RelativeToolTip": "..\\BlogApp.BL\\Services\\Interface\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T20:49:40.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "AuthsController.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp\\Controllers\\AuthsController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthsController.cs",
               "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp\\Controllers\\AuthsController.cs",
               "RelativeToolTip": "Controllers\\AuthsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T20:46:50.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Dtos\\UserDtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.BL\\Dtos\\UserDtos\\LoginDto.cs",
@@ -260,20 +325,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "HashHelper.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Helpers\\HashHelper.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.BL\\Helpers\\HashHelper.cs",
               "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Helpers\\HashHelper.cs",
               "RelativeToolTip": "..\\BlogApp.BL\\Helpers\\HashHelper.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T20:24:57.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "CreateUserValidator.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Validators\\UserValidator\\CreateUserValidator.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.BL\\Validators\\UserValidator\\CreateUserValidator.cs",
@@ -286,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "UserProfile.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Profiles\\UserProfile.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.BL\\Profiles\\UserProfile.cs",
@@ -299,20 +364,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.BL\\ServiceRegistration.cs",
               "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\ServiceRegistration.cs",
               "RelativeToolTip": "..\\BlogApp.BL\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAIBJwBIAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBYAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T19:35:51.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "CreateUserDto.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Dtos\\UserDtos\\CreateUserDto.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.BL\\Dtos\\UserDtos\\CreateUserDto.cs",
@@ -325,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.DAL\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.DAL\\Repositories\\GenericRepository.cs",
@@ -338,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Services\\Implements\\UserService.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.BL\\Services\\Implements\\UserService.cs",
@@ -351,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.BL\\Services\\Interface\\IUserService.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.BL\\Services\\Interface\\IUserService.cs",
@@ -364,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.DAL\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.DAL\\ServiceRegistration.cs",
@@ -377,20 +442,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.DAL\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.DAL\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.DAL\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "..\\BlogApp.DAL\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwA4AAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwA4AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T19:16:25.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "IUserRepositories.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.Core\\Repositories\\IUserRepositories.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.Core\\Repositories\\IUserRepositories.cs",
@@ -403,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.DAL\\Configurations\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.DAL\\Configurations\\UserConfiguration.cs",
@@ -416,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "BlogAppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.DAL\\Context\\BlogAppDbContext.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.DAL\\Context\\BlogAppDbContext.cs",
@@ -429,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 11,
               "Title": "Roles.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.Core\\Enums\\Roles.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.Core\\Enums\\Roles.cs",
@@ -442,20 +507,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.Core\\Entities\\Common\\User.cs",
               "RelativeDocumentMoniker": "..\\BlogApp.Core\\Entities\\Common\\User.cs",
               "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp.Core\\Entities\\Common\\User.cs",
               "RelativeToolTip": "..\\BlogApp.Core\\Entities\\Common\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T19:00:06.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "20241227213803_CreateCategory.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.DAL\\Migrations\\20241227213803_CreateCategory.cs",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.DAL\\Migrations\\20241227213803_CreateCategory.cs",
@@ -466,20 +531,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 1,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T21:28:24.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.BL\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.BL\\ServiceRegistration.cs",
@@ -490,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "CategoryCreateDTo.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.BL\\Dtos\\CategoryDto\\CategoryCreateDTo.cs",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.BL\\Dtos\\CategoryDto\\CategoryCreateDTo.cs",
@@ -501,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "CategoryListItem.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.BL\\Dtos\\CategoryDto\\CategoryListItem.cs",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.BL\\Dtos\\CategoryDto\\CategoryListItem.cs",
@@ -512,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "CategoryServices.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.BL\\Services\\Implements\\CategoryServices.cs",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.BL\\Services\\Implements\\CategoryServices.cs",
@@ -523,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.BL\\Services\\Interface\\ICategoryService.cs",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.BL\\Services\\Interface\\ICategoryService.cs",
@@ -534,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.DAL\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.DAL\\ServiceRegistration.cs",
@@ -545,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.DAL\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.DAL\\Repositories\\CategoryRepository.cs",
@@ -556,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.DAL\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.DAL\\Repositories\\GenericRepository.cs",
@@ -567,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "ICategoryRepostory.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.Core\\Repositories\\ICategoryRepostory.cs",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.Core\\Repositories\\ICategoryRepostory.cs",
@@ -578,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.Core\\Repositories\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.Core\\Repositories\\IGenericRepository.cs",
@@ -589,33 +654,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBwAAAAqAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T16:15:54.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp\\BlogApp\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-27T16:14:07.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "CategoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.DAL\\Configurations\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.DAL\\Configurations\\CategoryConfiguration.cs",
@@ -626,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "BlogAppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.DAL\\Context\\BlogAppDbContext.cs",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.DAL\\Context\\BlogAppDbContext.cs",
@@ -637,7 +702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.Core\\Entities\\Common\\Category.cs",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.Core\\Entities\\Common\\Category.cs",
@@ -648,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.Core\\Entities\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.Core\\Entities\\Common\\BaseEntity.cs",
@@ -659,7 +724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "BlogApp.Core.csproj",
               "DocumentMoniker": "C:\\Users\\Sheki-Komp\\Desktop\\BlogAppProject\\BlogApp.Core\\BlogApp.Core.csproj",
               "RelativeDocumentMoniker": "..\\..\\BlogApp.Core\\BlogApp.Core.csproj",

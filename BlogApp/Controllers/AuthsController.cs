@@ -11,9 +11,9 @@ namespace BlogApp.Controllers
     public class AuthsController(IAuthService _service) : ControllerBase
     {
         [HttpPost("[action]")]
-        public async Task<IActionResult> Login()
+        public async Task<IActionResult> Login(LoginDto dto)
         {
-            return Ok();
+            return Ok(await _service.LoginAsync(dto));
         }
         [HttpPost("[action]")]
         public async Task<IActionResult> Register(CreateUserDto dto)

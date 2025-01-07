@@ -301,3 +301,4 @@ C:\Users\Sheki-Komp\Desktop\BlogAppProject\BlogApp\BlogApp\bin\Debug\net8.0\Auto
 C:\Users\Sheki-Komp\Desktop\BlogAppProject\BlogApp\BlogApp\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\Sheki-Komp\Desktop\BlogAppProject\BlogApp\BlogApp\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\Sheki-Komp\Desktop\BlogAppProject\BlogApp\BlogApp\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Sheki-Komp\Desktop\BlogAppProject\BlogApp\BlogApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

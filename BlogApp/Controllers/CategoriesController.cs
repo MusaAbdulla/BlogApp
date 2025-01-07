@@ -1,5 +1,6 @@
 ﻿using BlogApp.BL.Dtos.CategoryDto;
 using BlogApp.BL.Services.Interface;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,6 +11,7 @@ namespace BlogApp.Controllers
     public class CategoriesController(ICategoryService _service) : ControllerBase
     {
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> Get()
         {
             return Ok(await _service.GetAllAsync());
