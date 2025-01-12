@@ -32,6 +32,43 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "BlogApp.Controllers.AuthsController",
+    "Method": "SendEmail",
+    "RelativePath": "api/Auths/SendEmail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogApp.Controllers.AuthsController",
+    "Method": "Verifaction",
+    "RelativePath": "api/Auths/Verifaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "code",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BlogApp.Controllers.CategoriesController",
     "Method": "Get",
     "RelativePath": "api/Categories",

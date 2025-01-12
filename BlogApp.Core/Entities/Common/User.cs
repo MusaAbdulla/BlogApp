@@ -16,6 +16,7 @@ namespace BlogApp.Core.Entities.Common
         public string PasswordHash { get; set; }
         public string Image {  get; set; }
         public bool IsMale { get; set; }
+        public bool IsVerified { get; set; }
         public int Role { get; set; }=(int)Roles.Viewer;
     }
 }

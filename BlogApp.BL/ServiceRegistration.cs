@@ -26,6 +26,7 @@ namespace BlogApp.BL
         public static IServiceCollection AddFluentValidation(this IServiceCollection services)
 
         { 
+            services.AddMemoryCache();
             services.AddFluentValidationAutoValidation();
             services.AddValidatorsFromAssemblyContaining(typeof(ServiceRegistration));
             return services;

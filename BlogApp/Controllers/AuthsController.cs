@@ -21,5 +21,17 @@ namespace BlogApp.Controllers
             await _service.RegisterAsync(dto);
             return Created();
         }
+        [HttpPost("[action]")]
+        public async Task<IActionResult> SendEmail(string email)
+        {
+            await _service.Send(email);
+            return Created();
+        }
+        [HttpPost("[action]")]
+        public async Task<IActionResult> Verifaction(string email,int code)
+        {
+            await _service.VerifyEmailAsync(email, code);
+            return Created();
+        }
     }
 }
